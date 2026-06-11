@@ -223,21 +223,7 @@ Avoid sharing credentials
 Monitor billing regularly
 Use least privilege access
 Restrict public network exposure
-11. Screenshots
 
-The following screenshots should be included in the repository:
-
-Screenshot	Description
-Screenshot 1	Azure signup page
-Screenshot 2	Email verification
-Screenshot 3	Phone verification
-Screenshot 4	Azure portal homepage
-Screenshot 5	Resource navigation
-Screenshot 6	Dashboard customization
-Screenshot 7	Cost management page
-Screenshot 8	Budget alert configuration
-Screenshot 9	MFA configuration
-Screenshot 10	Final customized dashboard
 12. Troubleshooting
 Issue: Unable to Verify Phone Number
 Solution
